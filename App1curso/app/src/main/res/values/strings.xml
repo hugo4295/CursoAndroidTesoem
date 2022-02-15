@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Curso Tesoem</string>
+    <string name="titulo">Segundo curso de android</string>
+    <string name="titulo2">Segundo texto</string>
+    <string name="hintNombre">Ingressa tu nombre</string>
+    <string name="btnenvia">Lanzar actividad</string>
+    <string name="btnenvia2">Lanzar segunda actividad</string>
+    <string name="pantalla2">Pantalla 2</string>
+    <string name="pantalla3">Pantalla 3</string>
+    <string name="etiquetaedad">Ingresa la edad</string>
+    <string name="btnresultadoact">Regresar resultado</string>
+</resources>
